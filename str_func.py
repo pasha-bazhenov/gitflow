@@ -1,5 +1,5 @@
 def uppercase_string(input_string):
-    """Все буквы становятся заглавными"""
+    """Все буквы становятся заглавными каждого слова"""
     return input_string.upper()
 
 
